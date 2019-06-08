@@ -6,4 +6,4 @@ categories: Point fixe
 ---
 "Nous sommes notre propre proposition" continuons nous de manifester. estce dire où aller ?
 
-![image](/assets/john.jpg)
+![rouge](/assets/john.jpg)
